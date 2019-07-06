@@ -1,7 +1,7 @@
 {
-console.writeline("enter number 1 :");
+console.writeline("enter number 2:");
 int num1 =convert.ToTnt32( console.readline());
-console.writeline("enter number 2 :");
+console.writeline("enter number 1 :");
 int num2 =convert.ToInt32(console.readline());
 int total = num1 + num2;
 console.writeline("total :"+ total");
