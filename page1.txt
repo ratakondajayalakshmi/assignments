@@ -1,0 +1,62 @@
+  <div class="row" style="text-align:center">
+    <div style="width:75%">
+        <img src="image/03A40322-1B0A-47F1-B47B-DC96C1EF9BAC.png" />
+        <h7>
+            generate a test or use <br />
+            a pre build template
+        </h7>
+
+    </div>
+    <div style="width:90px">
+
+        <img src="image/A1F6C6BA-EE36-4165-A765-76A1E79A5D87.png" />
+        <h7>
+            schedule your <br />
+            candidates
+        </h7>
+
+    </div>
+    <div style="width:103px">
+
+        <img src="image/FBDD0D27-811C-4A2D-87B0-40DA14B19CBB.png" />
+        <h7>
+            proctor remotely
+
+        </h7>
+
+    </div>
+    <div style="width:89.8px">
+
+        <img src="image/89D78F35-99E0-4DAF-A284-373EDE6CEEDA.png" />
+        <h7>
+            detect cheating
+
+        </h7>
+        </div>
+
+    </div>
+    <div class="row" style="text-align:center">
+    <div style="width:71.1px">
+        <img src="image/23521886-9563-42D4-96FB-735D7D7E3841.png" />
+        <h7>
+            automate granting
+
+        </h7>
+
+    </div>
+        <div style="width:83px">
+            <img src="image/D0FA4556-60CF-4005-8FAE-41B07E98F00B.png" />
+            <h7>
+                score subjectively
+
+            </h7>
+        
+
+    </div>
+        <div style="width:116px">
+            <img src="image/3396BEE4-FF97-45DA-A5C6-4B0033BC64A8.png" />
+            <h7>
+                find the best translator <br />
+                and interpretors
+            </h7>
+        </div>

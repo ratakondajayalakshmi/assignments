@@ -1,0 +1,71 @@
+  <div >
+                 <i class="material-icons" style="color:white">blur_on</i>
+                 <br />
+             <h7 style="color:white"><b>ARTIFICIAL INTELLIGENTS</b></h7>
+            <br />
+
+            <p style="color:white" >
+                students performance<br />
+                reports powered by AI
+            </p>
+                            <br />
+                            <br />
+                 <i class="fa fa-bar-chart-o" style="color:white"></i>
+                 <br/>
+                <h7 style="color:white"><b>EXAM-WISE REPORTS</b></h7>
+                            <br />
+
+                            <p style="color:white">
+                            Parents can view students<br />
+                                performance across exams
+                            </p>
+
+              </div >
+            
+            <div style="margin-left:150px;">
+                <i class="fa fa-lightbulb-o" style="color:white"></i>
+                <br />  
+               
+            <h7 style="color:white"><b>SMART INSIGHTS</b></h7>
+            <br />
+            <p style="color:white" >
+                Algorithmically generated <br />
+                academic insights
+
+            </p>
+                <br/>
+                <br/>
+                <i class="material-icons" style="color:white">date_range</i>
+                <br/>
+                <h7 style="color:white"><b>SUBJECT-WISE REPORTS</b></h7>
+                <br />
+
+                <p style="color:white">
+                    parents can track students<br />
+                    performance subject wise
+                </p>
+               <!--  -->
+                </div>
+            <div  style="margin-left:150px;">
+                <i class="material-icons" style="color:white">grid_on</i>
+                <br/>
+            <h7 style="color:white"><b>EXCEL UPLOADS</b></h7>
+            <br />
+            <p style="color:white" >
+                Bulk uoloads students' <br />
+                marks via simple CSV files
+
+            </p>
+                <br />
+                <br />
+                <i class="material-icons" style="color:white">crop_3_2</i>
+                <br/>
+                <h7 style="color:white"><b>PRE-EXAM COMMUNICATION</b></h7>
+                <br />
+
+                <p style="color:white">
+                    share exam portions and<br />
+                    timetable ata few clicks
+                    
+                </p>
+                
